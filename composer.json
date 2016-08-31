@@ -1,5 +1,6 @@
 {
     "name": "sozarch/bootstrap-sass",
+    "type": "component",
     "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
     "keywords": [
         "bootstrap",
@@ -31,7 +32,6 @@
     "support": {
         "issues": "https://github.com/twbs/bootstrap-sass/issues"
     },
-    "type": "component",
     "extra": {
         "component": {
             "files": [
